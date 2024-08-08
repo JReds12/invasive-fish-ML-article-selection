@@ -1,0 +1,11 @@
+# ignore all files in data file
+data/
+
+# ignore virtual environment
+venvSelectArticle/
+
+# ignore the models folder
+models/
+
+# ignore .vscode folder
+.vscode/
